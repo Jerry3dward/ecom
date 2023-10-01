@@ -260,8 +260,7 @@ body{
   font-size: 60px;
 }
 .reviews {
-  height: 600px;
-  background-color: aliceblue;
+  height: 550px;
   width: 100%;
   margin-top: 0;
   padding-top: 0;
@@ -336,9 +335,25 @@ body{
   border-radius: 3%;
   display: inline-block;
 }
-
-
-
+.que {
+  height: 500px;
+  background-color: rgba(185, 177, 177, 0.1);
+}
+.quebox {
+  margin-top: 20px;
+  height: 400px;
+  display: inline-block;
+  width: 80%;
+  background-color: white;
+  position: relative;
+  left: 120px;
+  top: 30px;
+  border-radius: 15px;
+}
+.quebox p{
+  font-size: 50px;
+  transform: translate(left, 100px);
+}
 
 
 
