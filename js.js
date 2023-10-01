@@ -10,6 +10,3 @@ const per = actual/max;
 let x = "1";
 let y = "2";
 console.log(x+y)
-
-let index = "hello this is first javascript";
-alert(index)
