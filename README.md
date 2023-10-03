@@ -1,2 +1,3 @@
 # ecom
-New Project
+First Project
+Used Html and CSS 100%
